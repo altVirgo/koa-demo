@@ -1,2 +1,2 @@
 # koa-demo
-koa-demo
+node index.js
